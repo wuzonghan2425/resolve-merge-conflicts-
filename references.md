@@ -1,3 +1,2 @@
-# References
+This is a merge!
 
-* octocat 1 😈
